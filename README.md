@@ -8,8 +8,8 @@ $ npm install
 ```
 ## MognoDB
 ```
-Put your mognodb database url
-
+Put your mognodb database url in this line
+(const mongoUrl = "")
 ```
 
 
